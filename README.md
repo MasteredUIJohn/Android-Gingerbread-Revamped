@@ -1,6 +1,6 @@
 # Android Gingerbread Revamped
 This is a small personal project of mine that makes stock Android 2.3 (Gingerbread) apps compatible with modern phones.
-- Apps are tested on Android 16 HyperOS 3.0
+- Apps are tested on a Redmi Note 13 Pro 5G (Garnet) with Android 16 - HyperOS 3.0
 
 ## Apps in work:
 
