@@ -5,5 +5,6 @@ This is a small personal project of mine that makes stock Android 2.3 (Gingerbre
 
 - Alarm ⏰
 - Contacts 📞
+- Music 🎵
 - Gallery  🖼️
 - Settings ⚙️ **(May not be very compatible. If so, it will be there just for the looks)**
