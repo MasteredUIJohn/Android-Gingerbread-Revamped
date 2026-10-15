@@ -22,7 +22,7 @@ This is a small personal project of mine that makes stock Android 2.3 (Gingerbre
 
 
 > [!NOTE]
-> Some apps (like clock) may ask for additional permissions which are not required and may seem weird for some users. That's because the target SDK is still 8 (Android 2.3) and it asks for permissions which are meant for older Android versions. I will list down below which permissions are needed for each app:
+> Some apps (like clock) may ask for additional permissions which are not required and may seem weird for some users. That's because the target SDK is still 8 (Android 2.3) and it asks for permissions which are meant for older Android versions. I did not change it so I don't break more things. Down below is a list which contains the permissions needed for each app:
 
 ### Clock
 - Show on lock screen (for the alarm)
