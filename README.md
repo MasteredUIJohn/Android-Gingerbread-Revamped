@@ -28,3 +28,7 @@ This is a small personal project of mine that makes stock Android 2.3 (Gingerbre
 - Show on lock screen (for the alarm)
 - Open new windows while running in the background (also for the alarm)
 - Access to music and audio files (For the ringtone)
+
+### Music
+- Phtos and videos taken by the camera
+- Messages in social media apps
