@@ -9,6 +9,7 @@ This is a small personal project of mine that makes stock Android 2.3 (Gingerbre
 - Music 🎵
 - Gallery  🖼️
 - Settings ⚙️ **(May not be very compatible. If so, it will be there just for the looks)**
+- Old Google Search Bar (This opens your default browser and is mostly there for cosmetic purposes)
 
 ## Installation
 
@@ -30,5 +31,9 @@ This is a small personal project of mine that makes stock Android 2.3 (Gingerbre
 - Access to music and audio files (For the ringtone)
 
 ### Music
-- Phtos and videos taken by the camera
-- Messages in social media apps
+- Access to files
+- Notifications
+
+### Old Google Search Bar
+- Access list of installed apps (To be able to access your browser)
+- Home screen shortcuts (For the widget)
