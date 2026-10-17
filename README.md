@@ -9,7 +9,7 @@ This is a small personal project of mine that makes stock Android 2.3 (Gingerbre
 - Music 🎵
 - Gallery  🖼️
 - Settings ⚙️ **(May not be very compatible. If so, it will be there just for the looks)**
-- Old Google Search Bar (This opens your default browser and is mostly there for cosmetic purposes)
+- Old Google Search Bar 🔎 (This opens your default browser and is mostly there for cosmetic purposes)
 
 ## Installation
 
